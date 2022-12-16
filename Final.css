@@ -1,0 +1,33 @@
+.Title{
+	font-family: Georgia;
+	color: orangered;
+	font-size: 50px;
+	padding-left: 20px;
+}
+.byline{
+	padding-left: 20px;
+	color: white;
+	font-family: Georgia;
+}
+.story-text{
+	padding-left: 20px;
+	color: white;
+	font-family: Georgia;
+	padding-right: 20px;
+}
+.DataViz1{
+	padding-left: 30px;
+	padding-right: 20px;
+}
+.DataViz2{
+	padding-left: 30px;
+	padding-right: 20px;
+}
+.row{
+	background-color: royalblue;
+}
+.header{
+	color: orangered;
+	font-size: 20px;
+	padding: 20px;
+}
